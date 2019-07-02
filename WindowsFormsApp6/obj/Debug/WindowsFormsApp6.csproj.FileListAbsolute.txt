@@ -1,0 +1,60 @@
+c:\users\lubov\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form1.resources
+c:\users\lubov\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Properties.Resources.resources
+c:\users\lubov\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.GenerateResource.Cache
+c:\users\lubov\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.CoreCompileInputs.cache
+c:\users\lubov\source\repos\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe.config
+c:\users\lubov\source\repos\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe
+c:\users\lubov\source\repos\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.pdb
+c:\users\lubov\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.exe
+c:\users\lubov\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.pdb
+C:\Users\Lubov\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csprojResolveAssemblyReference.cache
+C:\Users\Asuran\Desktop\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe.config
+C:\Users\Asuran\Desktop\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe
+C:\Users\Asuran\Desktop\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.pdb
+C:\Users\Asuran\Desktop\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csprojAssemblyReference.cache
+C:\Users\Asuran\Desktop\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form1.resources
+C:\Users\Asuran\Desktop\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Properties.Resources.resources
+C:\Users\Asuran\Desktop\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.GenerateResource.cache
+C:\Users\Asuran\Desktop\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.CoreCompileInputs.cache
+C:\Users\Asuran\Desktop\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.exe
+C:\Users\Asuran\Desktop\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.pdb
+C:\Users\Asuran\Desktop\LubaDiplomBackup\16. Try to fix everything\ChainMail\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe.config
+C:\Users\Asuran\Desktop\LubaDiplomBackup\16. Try to fix everything\ChainMail\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe
+C:\Users\Asuran\Desktop\LubaDiplomBackup\16. Try to fix everything\ChainMail\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.pdb
+C:\Users\Asuran\Desktop\LubaDiplomBackup\16. Try to fix everything\ChainMail\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csprojAssemblyReference.cache
+C:\Users\Asuran\Desktop\LubaDiplomBackup\16. Try to fix everything\ChainMail\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form1.resources
+C:\Users\Asuran\Desktop\LubaDiplomBackup\16. Try to fix everything\ChainMail\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Properties.Resources.resources
+C:\Users\Asuran\Desktop\LubaDiplomBackup\16. Try to fix everything\ChainMail\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.GenerateResource.cache
+C:\Users\Asuran\Desktop\LubaDiplomBackup\16. Try to fix everything\ChainMail\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.CoreCompileInputs.cache
+C:\Users\Asuran\Desktop\LubaDiplomBackup\16. Try to fix everything\ChainMail\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.exe
+C:\Users\Asuran\Desktop\LubaDiplomBackup\16. Try to fix everything\ChainMail\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.pdb
+C:\Users\Asuran\Desktop\LubaDiplomBackup\25. some foreach replaced\ChainMail\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe.config
+C:\Users\Asuran\Desktop\LubaDiplomBackup\25. some foreach replaced\ChainMail\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe
+C:\Users\Asuran\Desktop\LubaDiplomBackup\25. some foreach replaced\ChainMail\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.pdb
+C:\Users\Asuran\Desktop\LubaDiplomBackup\25. some foreach replaced\ChainMail\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csprojAssemblyReference.cache
+C:\Users\Asuran\Desktop\LubaDiplomBackup\25. some foreach replaced\ChainMail\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form1.resources
+C:\Users\Asuran\Desktop\LubaDiplomBackup\25. some foreach replaced\ChainMail\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Properties.Resources.resources
+C:\Users\Asuran\Desktop\LubaDiplomBackup\25. some foreach replaced\ChainMail\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.GenerateResource.cache
+C:\Users\Asuran\Desktop\LubaDiplomBackup\25. some foreach replaced\ChainMail\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.CoreCompileInputs.cache
+C:\Users\Asuran\Desktop\LubaDiplomBackup\25. some foreach replaced\ChainMail\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.exe
+C:\Users\Asuran\Desktop\LubaDiplomBackup\25. some foreach replaced\ChainMail\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.pdb
+C:\Users\Asuran\source\repos\ChainMail2\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe.config
+C:\Users\Asuran\source\repos\ChainMail2\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe
+C:\Users\Asuran\source\repos\ChainMail2\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.pdb
+C:\Users\Asuran\source\repos\ChainMail2\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csprojResolveAssemblyReference.cache
+C:\Users\Asuran\source\repos\ChainMail2\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form1.resources
+C:\Users\Asuran\source\repos\ChainMail2\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Properties.Resources.resources
+C:\Users\Asuran\source\repos\ChainMail2\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.GenerateResource.Cache
+C:\Users\Asuran\source\repos\ChainMail2\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.CoreCompileInputs.cache
+C:\Users\Asuran\source\repos\ChainMail2\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.exe
+C:\Users\Asuran\source\repos\ChainMail2\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.pdb
+C:\Users\Lubov\source\repos\ChainMail\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe.config
+C:\Users\Lubov\source\repos\ChainMail\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe
+C:\Users\Lubov\source\repos\ChainMail\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.pdb
+C:\Users\Lubov\source\repos\ChainMail\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csprojAssemblyReference.cache
+C:\Users\Lubov\source\repos\ChainMail\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form1.resources
+C:\Users\Lubov\source\repos\ChainMail\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Properties.Resources.resources
+C:\Users\Lubov\source\repos\ChainMail\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.GenerateResource.cache
+C:\Users\Lubov\source\repos\ChainMail\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.CoreCompileInputs.cache
+C:\Users\Lubov\source\repos\ChainMail\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.exe
+C:\Users\Lubov\source\repos\ChainMail\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.pdb
